@@ -6,7 +6,7 @@
 - I have experience working with Angular, I've developed the frontend of the website Leonsa.com.ar (unfortunately it's currently offline, but I have screenshots).
 Besides, although I don't usually work with php and javascript whithout frameworks, I've developed the reservations form for the website tagoresuites.com/reservas.php
 using those languages.
-- I’m currently learning React
+- I have experience working with Spring Boot,  I have developed an API for a web application using Spring Boot with others developers using Scrum methodology in No Country.
 - 📫 Email: xavier.luzuriaga@gmail.com
 - Linkedin: https://www.linkedin.com/in/xavier-luzuriaga-b0112086
 
