@@ -1,12 +1,7 @@
 - 👋 Hi, I'm Xavier Luzuriaga
 
-
-- I develop backend using Spring, .Net & Laravel and I develop frontend using Angular, also I know some useful technologies like Jenkins or Docker with Kubernetes
-- To learn the backend frameworks I know, I have developed a functional ecommerce API with get, post, put, delete, login, roles, register, etc. 
-- I have experience working with Angular, I've developed the frontend of the website Leonsa.com.ar (unfortunately it's currently offline, but I have screenshots).
-Besides, although I don't usually work with php and javascript whithout frameworks, I've developed the reservations form for the website tagoresuites.com/reservas.php
-using those languages.
-- I have experience working with Spring Boot,  I have developed an API for a web application using Spring Boot with others developers using Scrum methodology in No Country.
+- I have 1 year of experience working in a company as fullstack developer and I'm currently working as project leader.
+- I develop backend using Spring, .Net & Laravel, also I know some useful technologies like Jenkins or Docker with Kubernetes
 - 📫 Email: xavier.luzuriaga@gmail.com
 - Linkedin: https://www.linkedin.com/in/xavier-luzuriaga-b0112086
 
